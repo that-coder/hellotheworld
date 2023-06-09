@@ -2,8 +2,8 @@
   "name": "hellotheworld",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/that-coder/hellotheworld.git",
+    "ssh": "git@github.com:that-coder/hellotheworld.git",
     "branch": "block_hellotheworld"
   },
   "dependencies": {

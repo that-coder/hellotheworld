@@ -1,8 +1,8 @@
 {
   "type": "function",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/that-coder/hellotheworld.git",
+    "ssh": "git@github.com:that-coder/hellotheworld.git",
     "branch": "block_addTodo"
   },
   "language": "nodejs",
