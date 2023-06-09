@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_listTodos"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "hellotheworld_listTodos",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "b-SYWMK26z_Hl2M5B20m0",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "BZJFyrKuCtmpBnBzj4rdc"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "hellotheworld",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_hellotheworld"
+  },
+  "dependencies": {
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    }
+  },
+  "blockId": "BZJFyrKuCtmpBnBzj4rdc",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
